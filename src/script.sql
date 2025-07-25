@@ -1,3 +1,5 @@
+//Base de datos
+
 
 create table profesor(
 	id_profesor int auto_increment primary key,
